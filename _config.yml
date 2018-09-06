@@ -6,7 +6,7 @@
 name: Jaehyung.Lee
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: design, code, travel
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/29336686?s=400&u=2aa7791bf40f8bf25a0eb4d7aaa9e9cbcbab6523&v=4
@@ -19,10 +19,12 @@ avatar: https://avatars0.githubusercontent.com/u/29336686?s=400&u=2aa7791bf40f8b
 footer-links:
   email: wogud1202@gmail.com
   facebook:
-  github: fullyalive
+  github: fullyalive/fullyalive.github.io
   instagram:
+  linkedin:
   rss: # just type anything here for a working RSS icon
   youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -77,5 +79,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-minimal
